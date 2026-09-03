@@ -1,0 +1,12 @@
+Prototipagem (Telas):
+
+1 - Tela de Login (Usuário e Adm)
+2 - Página Inicial
+3 - Solicitar Equipamento
+4 - Consultar Solicitação (verificar e cancelar)
+5 - Listar Usuários cadastrados (ADM)
+6 - Cadastrar usuário (ADM)
+7 - Cadastrar equipamento (ADM)
+8 - Listar equipamentos cadastrados (ADM)
+9 - Deletar equipamento (ADM)
+10 - Aprovar Solicitação (ADM)

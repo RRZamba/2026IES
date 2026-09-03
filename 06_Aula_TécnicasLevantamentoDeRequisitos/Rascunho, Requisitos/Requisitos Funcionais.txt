@@ -1,0 +1,56 @@
+Requisitos Funcionais
+
+RF01 - Login
+  O sistema deve permitir que os professores e funcionários façam login (login e senha)
+
+RF02 - Solicitar equipamento
+   O sistema deve permitir que seja solicitado o empréstimo do equipamento.
+
+RF03 - Escolha do equipamento 
+   O sistema deve permitir uma lista para escolher qual o equipamento será solicitado.
+
+RF04 - Informar Período 
+   O sistema deve permitir que ao solicitar o equipamento o período de uso seja informado.
+
+RF05 - Informar Finalidade 
+   O sistema deve permitir que ao solicitar o equipamento a finalidade pedagógica seja informada.
+
+RF06 - Consultar Requisição 
+   O sistema deve permitir que o usuário verifique o status da sua solicitação.
+
+RF07 - Cancelar Solicitação
+   O sistema deve permitir que o usuário cancele a solicitação.
+
+RF08 - Aprovar Solicitação 
+   O sistema deve permitir o usuário Gerente aprove ou não a solicitação do usuário.
+
+RF09 - Cadastrar equipamento
+   O sistema deve permitir que seja cadastrado novos equipamentos.
+
+RF10 - Remover equipamento
+   O sistema deve permitir que seja removido equipamentos.
+
+--------------------------------------------------------------------------
+
+Requisitos Funcionais
+
+RNF01 - Facilidade e desempenho
+    O sistema deve ser prático, rápido e de fácil uso.
+
+RNF02 - Ambiente
+    O sistema deve rodar em tanto em aparelhos celulares como PC's.
+
+RN03 - Sistema operacional
+    O sistema deve rodar em quaisquer sistema operacional (IOS, Android, Linux e Windows), independente de sua versão/distribuição.
+
+
+
+
+
+
+
+
+
+
+
+
