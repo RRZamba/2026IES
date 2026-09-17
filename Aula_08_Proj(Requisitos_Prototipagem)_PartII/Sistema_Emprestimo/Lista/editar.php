@@ -72,6 +72,49 @@
                     </label>  
                     <input type="text" class="form-control"
                      value="Datashow" name="nome">
+
+                    <!-- Descrição -->
+                    <label>
+                        Descrição
+                    </label>  
+                    <input type="text" class="form-control"
+                     value=" Datashow com entrada HDMI" name="descricao">
+
+                    <!-- Modelo -->
+                    <label>
+                        Modelo
+                    </label>  
+                    <input type="text" class="form-control"
+                     value="EPSON 1000 Grau" name="modelo">
+
+                     <!-- Quantidade -->
+                    <label>
+                        Quantidade
+                    </label>  
+                    <input type="text" class="form-control"
+                     value="4" name="quantidade">
+
+                    <!-- Status -->
+                    <label>
+                        Status
+                    </label>  
+                    <select class="form-control">
+                        <option selected>Disponível</option>
+                        <option>Indisponível</option>
+                        <option>Em Manutenção</option>
+                    </select>
+
+                    <!-- Botão -->
+                   <a href="lista.php" class="btn btn-secondary">
+                        Cancelar
+                    </a>
+
+                    <button type="submit" class="btn btn-primary">
+                        Salvar Alterações        
+                    </button>
+
+
+                     
                     
 
                 </form>

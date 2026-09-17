@@ -58,6 +58,8 @@
             </div>  
             <div class="col-md-7">
                 <h3>Datashow</h3>
+                <hr>
+
                 <p>
                     <strong>Equipamento:</strong>
                     Datashow com entrada HDMI
@@ -76,7 +78,8 @@
                         Disponível
                     </span>    
                 </p>
-
+                
+                <hr>
              
 
                 <a href="lista.php" class="btn btn-primary">
@@ -86,7 +89,7 @@
                 <a href="editar.php" class="btn btn-primary">
                     Editar
                 </a>
-                
+                <br><br>
             </div> 
         </div>    
     </div>
