@@ -87,6 +87,40 @@
                 </button>
             </td>
         </tr>
+		
+		<tr>
+            <td>DataShow</td>
+            <td>Datashow com entrada HDMI </td>
+            <td>123456</td>
+            <td>EPSON 1000 Grau</td>
+            <td>
+                <button class="btn btn-primary">
+                    Editar
+                </button>
+            </td>
+            <td>
+                <button class="btn btn-primary">
+                    Visualizar
+                </button>
+            </td>
+        </tr>
+
+         <tr>
+            <td>DVV</td>
+            <td>DVV LG </td>
+            <td>A221</td>
+            <td>LG 2000 Grau</td>
+            <td>
+                <button class="btn btn-primary">
+                    Editar
+                </button>
+            </td>
+            <td>
+                <button class="btn btn-primary">
+                    Visualizar
+                </button>
+            </td>
+        </tr>
 
 
 
