@@ -6,11 +6,9 @@ public class UsuarioService
 	*/
 	
 	//Método Cadastar
-	public void Cadastrar() 
+	public String Cadastrar(Usuario user) 
 	{
-		
+		//Simulando um Insert
+		return  "Usuário: " + user.getNome() + "Cadastrado";
 	}
-
-	
-
 }
